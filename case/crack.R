@@ -1,7 +1,7 @@
 # ========================================================================
 # ===== Multivariate inverse Gaussian process with common effects ========
 # Tested in R 4.2.0., implemented on 2024.06.12.  
-# Latest updates see https://github.com/liangliangzhuang/multi-rIG 
+# The latest code updates can be found at https://github.com/liangliangzhuang/multi-rIG 
 # The fatigue crack-size data are openly available in Meeker, W.Q., et al., 2022. Statistical Methods for Reliability Data. John Wiley & Sons. 
 # ========================================================================
 # load packages

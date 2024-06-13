@@ -8,7 +8,7 @@ The online code repository associated with this paper is organized into three ma
     -   The "crack.R" script, which performs parameter estimation across various models and calculates their respective AIC.
     -   The "results" folder, where the final analytical outputs are systematically stored.
 
--   **simulation**: "Integral_appr.R": the primary R script for replicating Figure 2 in the paper. This script evaluates the efficacy of various numerical integration techniques in approximating the CDF of failure times.
+-   **simulation**: "Integral_appr.R": the primary R script for replicating Figure 2. This script evaluates the efficacy of various numerical integration techniques in approximating the CDF of failure time.
 
 -   **utility**: Houses a suite of functions crucial for the computational analyses:
 

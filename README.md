@@ -4,7 +4,7 @@ The online code repository associated with this paper is organized into three ma
 
 -   **case**: This directory houses
 
-    -   The "Fatigue-crack-size.xlsx" dataset, originally introduced in \cite{meeker2022statistical} and further processed as described in Appendix H of \cite{Fang2020}.
+    -   The "Fatigue-crack-size.xlsx" dataset, originally introduced in [Meeker et al. (2022)](https://www.wiley.com/en-us/Statistical+Methods+for+Reliability+Data%2C+2nd+Edition-p-9781118115459) and further processed as described in Appendix H of [Fang et al. (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0377221721008985).
     -   The "crack.R" script, which performs parameter estimation across various models and calculates their respective AIC.
     -   The "results" folder, where the final analytical outputs are systematically stored.
 

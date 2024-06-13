@@ -1,5 +1,7 @@
 # Multivariate inverse Gaussian process with common effects
 
+> This work has been submitted to the Journal of Quality Technology and is currently under major revision.
+
 The repository related to this paper is structured into three primary directories, each designed for specific functions as outlined below:
 
 -   **case**: This directory includes:

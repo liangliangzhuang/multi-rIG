@@ -114,5 +114,3 @@ cowplot::plot_grid(pp1, pl1, lp1, ll1,nrow=2,labels = c("I","II","III","IV"))
 
 # save.image(file = paste("simulation/Integral_appr.RData", sep=''))
 
-
-

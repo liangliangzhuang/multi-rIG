@@ -10,7 +10,7 @@ The repository related to this paper is structured into three primary directorie
 
 -   **simulation**: "Integral_appr.R": the primary R script for replicating Figure 2. This script evaluates the efficacy of various numerical integration techniques in approximating the CDF of failure time.
 
--   **utility**: Houses a suite of functions crucial for the computational analyses:
+-   **utility**: This directory contains a collection of essential functions for computational analysis:
 
     -   "appr.R": Functions dedicated to numerical integration approximations.
 

@@ -1,5 +1,4 @@
 #=============== EM algorithm =============
-
 # 1. Initial value estimation ====
 init_para_guess = function(m, K, time=0:m, type = "pl", data1, data2, init_param = c(1,1,1,1,3,4,5)){
   unit_mean = unit_mean_diff = unit_var_diff = matrix(NA,m,K)

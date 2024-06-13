@@ -1,5 +1,4 @@
 # ======== CDF approximation of GL approximate failure time ============
-
 # 1. Data augmentation =====
 pivot_expand_dat = function(bin = 2, data = sim_dat$Y_t){
   # bin -> scale
@@ -132,6 +131,7 @@ scen_appr_CDF = function(types, D, sim_dat, para, limits=c(5, 10), leg.pos = "no
   
   return(list("plot" = pp_com, "cost_time" = pp_time))
 }
+
 
 
 

@@ -18,4 +18,4 @@ The online code repository associated with this paper is organized into three ma
 
     -   "fct.R": A collection of auxiliary functions regularly employed throughout the analyses.
 
-For optimal interaction with these resources, it is recommended to open "multi-rIG.Rproj" using [RStudio](https://posit.co/download/rstudio-desktop/), install all necessary packages as initially specified, and proceed to execute the code sequentially, section by section.
+For optimal interaction with these codes, it is recommended to open "multi-rIG.Rproj" using [RStudio](https://posit.co/download/rstudio-desktop/), install all necessary packages as initially specified, and proceed to execute the code sequentially, section by section.

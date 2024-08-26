@@ -1,4 +1,4 @@
-# Reliability Analysis and Degradation Modeling Using Multivariate Inverse Gaussian Process with Common Effects
+# Multivariate Reparameterized Inverse Gaussian Processes with Common Effects for Degradation-based Reliability Prediction
 
 > This work has been submitted to the Journal of Quality Technology and is currently under minor revision (2nd round).
 

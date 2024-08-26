@@ -1,4 +1,4 @@
-# Multivariate inverse Gaussian process with common effects
+# Reliability Analysis and Degradation Modeling Using Multivariate Inverse Gaussian Process with Common Effects
 
 > This work has been submitted to the Journal of Quality Technology and is currently under minor revision (2nd round).
 

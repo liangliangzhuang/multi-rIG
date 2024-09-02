@@ -1,6 +1,6 @@
 # Multivariate Reparameterized Inverse Gaussian Processes with Common Effects for Degradation-based Reliability Prediction
 
-> This work has been submitted to the Journal of Quality Technology and is currently under minor revision (2nd round).
+> This work has been early accepted by the Journal of Quality Technology.
 
 The repository related to this paper is structured into three primary directories, each designed for specific functions as outlined below:
 

@@ -78,7 +78,7 @@ Approx_CDF_failure_time <- function(i = i, n1 = 30, bins = 5, div = 10, mc_n = 1
   }
   re_em <- apply(ree, 1, sum, na.rm = T)
   em_time = Sys.time() - SYS_t
-  # 3.4 MCMC method ====
+  # 3.4 MC method ====
   SYS_t = Sys.time() 
   mcm <- matrix(NA, length(Y_min), mc_n)
   for (p in 1:mc_n) {

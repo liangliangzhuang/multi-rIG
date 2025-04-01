@@ -24,9 +24,9 @@ The repository related to this paper is structured into three primary directorie
 
 ## Note 
 
-This work has been accepted for publication by Journal of Quality Technology.
+This work has been accepted for publication by Journal of Quality Technology.  If you use the provided code in this project, please remember to cite the paper accordingly. Detailed citation information is
 
-```
+```bibtex
 @article{zhuang2025multivariate,
   title={Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction},
   author={Zhuang, Liangliang and Xu, Ancha and Fang, Guanqi and Tang, Yincai},
@@ -38,4 +38,7 @@ This work has been accepted for publication by Journal of Quality Technology.
   publisher={Taylor \& Francis}
 }
 ```
+
+If you have any questions or need help with the code, please submit them in the [issue](https://github.com/liangliangzhuang/multi-rIG/issues).
+
 
